@@ -1,11 +1,11 @@
 <?php
 if(){//show data
 
-}else{//show form
+}else{//show form}
   echo " 
-  <form action="">
+ form action="">
   
-  </form>
+ </form>
   
   ":
 }
